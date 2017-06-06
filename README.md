@@ -7,3 +7,4 @@ about the base practice for android
           提取全局变量：Ctrl+Alt+F
           提取方法：Shit+Alt+M
 ————————————————————————
+          get/set方法通过快捷键Alt+Insert
