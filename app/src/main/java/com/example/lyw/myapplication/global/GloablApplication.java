@@ -2,6 +2,7 @@ package com.example.lyw.myapplication.global;
 
 import android.app.Application;
 import android.content.Context;
+import android.os.Handler;
 
 /**
  * Created by lyw on 2017/5/15.
