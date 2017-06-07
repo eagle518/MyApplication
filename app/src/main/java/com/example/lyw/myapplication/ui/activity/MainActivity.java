@@ -1,7 +1,9 @@
-package com.example.lyw.myapplication;
+package com.example.lyw.myapplication.ui.activity;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+
+import com.example.lyw.myapplication.R;
 
 public class MainActivity extends AppCompatActivity {
 
